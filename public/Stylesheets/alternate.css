@@ -3,6 +3,33 @@ html{
   background-color: #D0EEBF;
 }
 
+.text-center {
+  text-align: center;
+}
+
+
+.buttonNew {
+  border: none;
+  font-family: courier;
+  color: white;
+  background-color: #E78074;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 12px;
+  display: inline-block;
+  font-size: 24px;
+  padding: 10px 10px;
+}
+
+.buttonNew:hover{
+  background-color: #DC493A;
+
+  display: inline-block;
+  text-decoration: none;
+  font-style: italic;
+  cursor: pointer;
+}
+
 
 p{
   font-family: courier;
